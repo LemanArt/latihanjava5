@@ -77,6 +77,6 @@ public class Bayaran {
 }
 ```
 • Hasil Run
-![Gambar 1](Construction/ss/fix1.png.png)
+![Gambar 1](Construction/ss/fix1.png)
 ___
 <b>SELESAI</b>
